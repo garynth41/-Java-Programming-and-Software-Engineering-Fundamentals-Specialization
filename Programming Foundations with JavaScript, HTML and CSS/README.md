@@ -15,8 +15,14 @@ I successfully completed this course in 3 weeks, while working fulltime and taki
 Here's <a href="https://www.coursera.org/account/accomplishments/certificate/PBDEEDB3MAER">the link to the Certificate.</a>
 
 <h3>What I learned in this course:</h3>
-1- HTML and CSS <br/>
-2- Javascript Event-Driven Programming <br/>
-3- How to manipulate image pixels with Javascript <br/>
-4- How to create image filters with Javascript <br/>
-5- Testing and Debuging approaches <br/>
+1- Think critically about how to solve a problem using programming <br>
+2- Use HTML and CSS to construct a web page with paragraphs, divs, images, links, <br>
+   and lists and dd styles to a web page with CSS IDs and classes <br/>
+3- Javascript Event-Driven Programming, writing programs using functions, for loops, <br>
+   and conditional statement <br/>
+4- How to manipulate image pixels with Javascript <br/>
+5- How to create image filters with Javascript <br/>
+6- Testing and Debuging approaches <br/>
+ 
+
+
