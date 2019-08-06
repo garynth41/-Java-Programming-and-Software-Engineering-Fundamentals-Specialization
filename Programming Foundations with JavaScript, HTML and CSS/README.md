@@ -10,7 +10,7 @@ In Week 2 only, for the code to be executed, code should be run at Duke Universi
 <hr>
 
 <h3>Update 19 June 2019:</h3>
-I successfully completed this course in 3 weeks, while working fulltime and taking care of my family. It was a great experience as I was able to develop a comprehensive graps of the course principles and practical knowhow on the topics highlighted below. 
+I successfully completed this course in 3 weeks, while working fulltime and taking care of my family. It was a great experience as I was able to develop a comprehensive graps of the course principles and practical knowhow on the topics highlighted below. <br>
 
 Here's <a href="https://www.coursera.org/account/accomplishments/certificate/PBDEEDB3MAER">the link to the Certificate.</a> <br>
 
