@@ -12,12 +12,12 @@ In Week 2 only, for the code to be executed, code should be run at Duke Universi
 <h3>Update 19 June 2019:</h3>
 I successfully completed this course in 3 weeks, while working fulltime and taking care of my family. It was a great experience as I was able to develop a comprehensive graps of the course principles and practical knowhow on the topics highlighted below. 
 
-Here's <a href="https://www.coursera.org/account/accomplishments/certificate/PBDEEDB3MAER">the link to the Certificate.</a>
+Here's <a href="https://www.coursera.org/account/accomplishments/certificate/PBDEEDB3MAER">the link to the Certificate.</a> <br>
 
 <h3>What I learned in this course:</h3>
 1- Think critically about how to solve a problem using programming <br>
-2- Use HTML and CSS to construct a web page with paragraphs, divs, images, links and lists and dd styles to a web page with CSS IDs and classes <br/>
-3- Javascript Event-Driven Programming, writing programs using functions, for loops, and conditional statement <br/>
+2- Used HTML and CSS to construct wb pages <br/>
+3- Javascript to write event driven programing using functions, for loops, and conditional statement <br/>
 4- How to manipulate image pixels with Javascript <br/>
 5- How to create image filters with Javascript <br/>
 6- Testing and Debuging approaches <br/>
