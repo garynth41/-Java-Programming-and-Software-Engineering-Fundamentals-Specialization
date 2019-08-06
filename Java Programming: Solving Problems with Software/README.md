@@ -1,7 +1,7 @@
 ## Java Programming Solving Problems with Software
-This course is offered by Duke University, via <a href="https://www.coursera.org">Coursera</a> and is part of the <a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals</a>.
+This course is offered by Duke University, via <a href="https://www.coursera.org">Coursera</a> and is part of the <a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals Specialization </a>.
 
-This is the second course in the Specialization, Java Programming and Software Engineering Fundamentals Specialization: <a href="https://www.coursera.org/learn/java-programming">Link to the course</a>.
+This is the second course in the Specialization: <a href="https://www.coursera.org/learn/java-programming"> Please see link to the course for more information</a>.
 
 ### IMPORTANT NOTE:
 
@@ -18,3 +18,5 @@ Some code should be run in a custom Bluej Development Environment made by Duke's
 6- Develop a set of test cases as part of developing a program;<br/>
 7- Create a class with multiple methods that work together to solve a problem; and<br/>
 8- Use divide-and-conquer design techniques for a program that uses multiple methods.<br/>
+
+
