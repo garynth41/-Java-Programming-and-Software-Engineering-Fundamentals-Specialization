@@ -1,16 +1,13 @@
-# Java Programming Solving Problems with Software
-This course is offered at <a href="https://www.coursera.org">Coursera</a> and is part of the <a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals</a>.
+## Java Programming Solving Problems with Software
+This course is offered by Duke University, via <a href="https://www.coursera.org">Coursera</a> and is part of the <a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals</a>.
 
-This is the second course of the Specialization, <a href="https://www.coursera.org/learn/java-programming">Link to the course</a>.
+This is the second course in the Specialization, Java Programming and Software Engineering Fundamentals Specialization: <a href="https://www.coursera.org/learn/java-programming">Link to the course</a>.
 
-# IMPORTANT NOTE:
+### IMPORTANT NOTE:
 
 Some code should be run in a custom Bluej Development Environment made by Duke's University especially for this course. You can get the IDE from the University website <a href="http://www.dukelearntoprogram.com/downloads/bluej.php?course=2">here</a>.
 
 <hr>
-
-<h3>Update 15 January 2018:</h3>
-I finished the course in 3 months due to working 2 full-time jobs but it was a great experience. Here's <a href="https://www.coursera.org/account/accomplishments/certificate/JA6EM9884682">the link to the Certificate.</a>
 
 <h3>What I learned in this course:</h3>
 1- Edit, compile, and run a Java program;<br/>
